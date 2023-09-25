@@ -49,7 +49,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar vuestr
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-    -  [Enlace a creación repositorio del alumno](https://classroom.github.com/a/Wsv8kxQB)
+    -  [Enlace a creación repositorio del alumno](https://classroom.github.com/a/PqXuePwN)
 
 - Aceptar la tarea/assignment
 - Entrar en la organización
