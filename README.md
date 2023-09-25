@@ -36,15 +36,14 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
 
-Con esto se  da acceso a la organización mostrando los tres únicos repositorios visibles para los alumnos por ahora
+Con esto se  da acceso a la organización mostrando los repositorios visibles para los alumnos por ahora
 
-![Estructura](Inicio/orgprogra.png)
 
 Esta área de trabajo compartido es la que se utilizará para desarrollar vuestro trabajo y evaluar las prácticas de la asignatura.
 
 
 
-## 3.  Clonar el repositorio para los trabajos del Alumno
+## 3. Crear  el repositorio para los trabajos del Alumno
 
 - Entrar en github con el usuario y la contraseña creada.
 
@@ -55,7 +54,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar vuestr
 - Aceptar la tarea/assignment
 - Entrar en la organización
 
-    - bbbbbbbb
+    - [Organización](https://github.com/orgs/Programacion-44101107-2023-24/)
 
 
 - Comprobar que el repositorio ha sido creado
