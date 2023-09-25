@@ -31,7 +31,7 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-  -    https://classroom.github.com/a/AJxcg7Ek
+  -    [https://classroom.github.com/a/7GFYeIEb ](https://classroom.github.com/a/7GFYeIEb)
 
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
