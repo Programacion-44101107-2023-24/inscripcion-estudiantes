@@ -31,7 +31,7 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-  -    [https://classroom.github.com/a/7GFYeIEb ](https://classroom.github.com/a/7GFYeIEb)
+  -    [https://classroom.github.com/a/7GFYeIEb](https://classroom.github.com/a/7GFYeIEb)
 
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
@@ -49,7 +49,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar vuestr
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-    -  [Enlace a creación repositorio del alumno](https://classroom.github.com/a/PqXuePwN)
+    -  [Enlace a creación repositorio del alumno](https://classroom.github.com/a/dAuqv2Dz)
 
 - Aceptar la tarea/assignment
 - Entrar en la organización
