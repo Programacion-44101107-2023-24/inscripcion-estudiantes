@@ -1,8 +1,5 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/7GFYeIEb)
 
-
-<link rel="stylesheet" type="text/css" href="Inicio/estilo.css" media="screen" />
-
 # Inscripción de estudiantes
 
 
@@ -12,9 +9,9 @@ Para poder desarrollar las competencias del grupo de trabajo de esta asignatura 
 
 2. Utilizar el siguiente enlace para inscribirse en el curso
 
-        [https://classroom.github.com/a/AJxcg7Ek](https://classroom.github.com/a/7GFYeIEb)
+        https://classroom.github.com/a/AJxcg7Ek
 
-3. Clonar el repositorio para los trabajos individuales
+3. Clonar el repositorio para los trabajos del Alumno
 
 ## 1. Creación de cuentas de GitHub
 
@@ -34,7 +31,7 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-  - https://classroom.github.com/a/AJxcg7Ek
+  -    https://classroom.github.com/a/AJxcg7Ek
 
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
@@ -47,24 +44,26 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar vuestr
 
 
 
-## 3.  Creación de un repositorio nuevo para los trabajos individuales
+## 3.  Clonar el repositorio para los trabajos del Alumno
 
 - Entrar en github con el usuario y la contraseña creada.
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
 
-    - [https://classroom.github.com/a/dw4ZpZix](https://classroom.github.com/a/dw4ZpZix)
+    -  otra bbbbb
 
 - Aceptar la tarea/assignment
 - Entrar en la organización
 
-    - https://github.com/Programacion-CODIGO-44101107-2022-23
+    - bbbbbbbb
 
 
 - Comprobar que el repositorio ha sido creado
-- Dar acceso al equipo  *team* **teachers** al repositorio
+- Dar acceso al equipo  *team* **profesorado** al repositorio
 
   - Seleccionar la opción **Settings**
   - Pulsar sobre **Collaborators and teams**
   - Pulsar el botón **Add teams**. 
-  - Sobre la ventana seleccionar el equipo **teachers**
+  - Sobre la ventana seleccionar el equipo **profesorado**
+
+
