@@ -9,7 +9,7 @@ Para poder desarrollar las competencias del grupo de trabajo de esta asignatura 
 
 2. Utilizar el siguiente enlace para inscribirse en el curso
 
-        https://classroom.github.com/a/AJxcg7Ek
+   https://classroom.github.com/a/AJxcg7Ek
 
 3. Clonar el repositorio para los trabajos del Alumno
 
