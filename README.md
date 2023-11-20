@@ -7,11 +7,10 @@ Para poder desarrollar las competencias del grupo de trabajo de esta asignatura 
 
 1. Creación de  cuenta de github con beneficios de estudiante 
 
-2. Utilizar el siguiente enlace para inscribirse en el curso
-
-[Inscripcion en el curso https://classroom.github.com/a/7GFYeIEb ](https://classroom.github.com/a/7GFYeIEb)
+2. Utilizar el enlace para inscribirse en el curso proporcionado en el aula virtual
 
 3. Clonar el repositorio para los trabajos del Alumno
+
 
 ## 1. Creación de cuentas de GitHub
 
@@ -30,9 +29,6 @@ Debemos asegurarnos de marcar las opciones de estudiante para poder acogernos a 
 - Entrar en github con el usuario y la contraseña creada.
 
 - Pulsar pegar el siguiente enlace en otra ventana del navegador.
-
-  -    [https://classroom.github.com/a/7GFYeIEb](https://classroom.github.com/a/7GFYeIEb)
-
 - Buscar el nombre del alumno en la lista mostrada, puede haber varias páginas y seleccionarlo.
 - Pulsar **join** al grupo de **estudiantes** de la asignatura.
 
@@ -47,10 +43,7 @@ Esta área de trabajo compartido es la que se utilizará para desarrollar vuestr
 
 - Entrar en github con el usuario y la contraseña creada.
 
-- Pulsar pegar el siguiente enlace en otra ventana del navegador.
-
-    -  [Enlace a creación repositorio del alumno](https://classroom.github.com/a/dAuqv2Dz)
-
+- Pulsar pegar el  enlace en otra ventana del navegador, comprobar el aula virtual
 - Aceptar la tarea/assignment
 - Entrar en la organización
 
